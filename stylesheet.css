@@ -1,7 +1,7 @@
-
-
 {
-    
+    box-sizing: border-box;
+    font-family: Raleway;
+    color: #777
 }
 
 
@@ -10,14 +10,39 @@ html, body {
     padding: 0;
 }
 
-.nav ul{
+.nav-ul{
     margin: 0;
+
+}
+
+.nav-li {
+    display: inline;
+}
+
+.nav-a {
+    display: inline;
+    padding: 5em;
+    color: white;
+    text-decoration: none;
+}
+
+ 
+}
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
 }
 .main-header{
     background-image: url("images/img-h-2.jpg"); 
     background-size: cover;
     padding-bottom: 30px;
     box-sizing: border-box;
-    font-family: 
+    font-family: Raleway;
+    color: #ffffff
+    
     
 } 
+
+.section {
+    color: #777777
+    
+}
