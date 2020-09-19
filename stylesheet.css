@@ -1,8 +1,7 @@
 
 
 {
-    box-sizing: border-box;
-    font-family: Raleway; 
+    
 }
 
 
@@ -18,5 +17,7 @@ html, body {
     background-image: url("images/img-h-2.jpg"); 
     background-size: cover;
     padding-bottom: 30px;
+    box-sizing: border-box;
+    font-family: 
     
 } 
